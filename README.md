@@ -1,3 +1,7 @@
+### Bitcoin Para Todos
+
+O objetivo deste projeto é promover a acessibilidade para a propagação de informações sobre criptomoedas e tecnologias envolvidas.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
