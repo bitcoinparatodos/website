@@ -2,7 +2,17 @@
 
 O objetivo deste projeto é promover a acessibilidade para a propagação de informações sobre criptomoedas e tecnologias envolvidas.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## To-do
+
+- [ ] Definicão de layout
+- [ ] Produção de conteúdo
+- [ ] Padronização de acessibilidade
+- [ ] i18n
+- [ ] Server-side Rendering (Next.JS ?)
+- [ ] SEO
+
+
+*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
